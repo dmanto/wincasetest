@@ -11,4 +11,4 @@ install:
   - cpanm --verbose --installdeps -n .
 
 build_script:
-  - prove wintest.t
+  - prove winprob.t
