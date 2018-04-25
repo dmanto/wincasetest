@@ -4,5 +4,5 @@ wincasetest - A Mojo test for a windows issue
 
 =for html
 <a href="https://ci.appveyor.com/project/dmanto/wincasetest/branch/master">
-<img alt="Build status" src="https://ci.appveyor.com/api/projects/status/16qsmkylekt3xbt0/branch/master?svg=true" />
+<img alt="Build status" src="https://ci.appveyor.com/api/projects/status/t971k0jac53jde21?svg=true" />
 </a>
